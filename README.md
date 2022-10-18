@@ -1,4 +1,4 @@
-![StarLoader Core](https://media.discordapp.net/attachments/970399339677618276/1031864623563014155/Starloader_Core_Small.png)
+![StarLoader Core](https://media.discordapp.net/attachments/970399339677618276/1031906771054366830/Starloader.png?width=630&height=630)
 # StarLoader for Starbound
 ### - Open Source, Modular[^modular], Multiplayer Compatible[^compatible], Completely written in Lua[^onlylua] - 
 Discover the possibilities of StarLoader:
