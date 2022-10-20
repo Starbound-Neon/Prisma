@@ -1,0 +1,12 @@
+{
+    "name": "StarLoader",
+    "version": "0.0.1-old-archived",
+    "path": ".",
+    "dependencies": [],
+    "metadata": {
+        "displayName": "StarLoader",
+        "author": "Lonaasan#1337",
+        "description": "StarLoader Archived GUI",
+        "version": "0.0.1-old-archived"
+    }
+}
