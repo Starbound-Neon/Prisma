@@ -8,7 +8,7 @@ Discover the possibilities of StarLoader!
 
 | Name | Progress | Description | 
 | ------------- | :-------------: | ------------- |
-| StarLoader API  | :building_construction: (in progress) | Modding API for creators to interact with the StarLoader Core and other modules / third-party mods |
+| StarLoader API  | :building_construction: (in experimental status) | Modding API for creators to interact with the StarLoader Core and other modules / third-party mods |
 | StarLoader Core  | :building_construction: (in progress) | The Heart of the Heart - Running the StarLoader API and provides Core-Functions like emulating tech and access to all lua tables over _ENV to modules |
 | StarLoader Framework  | :building_construction: (in progress) | All utility files that form the base for StarLoader Core and StarLoader API |
 
