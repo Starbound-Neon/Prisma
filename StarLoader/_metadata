@@ -1,0 +1,8 @@
+{
+  "author" : "^#ff9f7f;T^#ffde7f;h^#e0ff7f;e^#a1ff7f;F^#7fff9c;u^#7fffdb;r^#7fe3ff;r^#7fa4ff;y^#997fff;D^#d97fff;e^#ff7fe5;v^#ff7fb8;i^#ff7f9c;l^reset; / ^#00ffff;L^#25dbff;o^#49b7ff;n^#6e92ff;a^#926eff;a^#b749ff;s^#db25ff;a^#ff00ff;n^reset;",
+  "description" : "Starloader Alpha Multiplayer compatible",
+  "friendlyName" : "StarLoader",
+  "name" : "starloader",
+  "priority" : 100,
+  "version" : "Alpha 1.0"
+}

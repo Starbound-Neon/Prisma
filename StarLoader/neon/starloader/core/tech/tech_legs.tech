@@ -1,0 +1,10 @@
+{
+  "name" : "starloaderlegs",
+  "type" : "legs",
+  "scripts" : ["tech.lua"],
+  "animator" : "/stats/effects/ufobeamstun/ufobeamstun.animation",
+  "shortDescription" : "StarLoader Legs",
+  "description" : "StarLoader Functional grabber",
+  "rarity" : "Legendary",
+  "icon" : "/neon/starloader/core/starhub/gui/cursor/neon.png"
+}

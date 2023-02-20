@@ -1,0 +1,22 @@
+[
+	{	
+		"op": "add",
+		"path": "/deploymentConfig/scripts/-",
+		"value": "/neon/starloader/core/deployment.lua"
+	},
+	{
+		"op": "add",
+		"path": "/statusControllerSettings/primaryScriptSources/-",
+		"value": "/neon/starloader/core/primary.lua"
+	},
+	{
+		"op": "add",
+		"path": "/companionsConfig/scripts/-",
+		"value": "/neon/starloader/core/companion.lua"
+	},
+	{
+		"op": "add",
+		"path": "/genericScriptContexts/starloader",
+		"value" : "/neon/starloader/core/generic.lua"
+	}
+]

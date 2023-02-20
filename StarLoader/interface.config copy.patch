@@ -1,0 +1,82 @@
+[
+  [
+    // if Quickbar is installed move the button back to the horizontal offset of the other buttons
+    {
+      "op": "test",
+      "path": "/cursorTooltip/mmUpgradeText",
+      "value": "Quickbar"
+    },
+    {
+      "op": "remove",
+      "path": "/mainBar/mmUpgrade/pos/0"
+    },
+    {
+      "op": "copy",
+      "path": "/mainBar/mmUpgrade/pos/0",
+      "from": "/mainBar/beam/pos/0"
+    }
+  ],
+  [
+    {
+      "op": "replace",
+      "path": "/cursorTooltip/collectionsText",
+      "value": "Starhub"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/base",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:base"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/hover",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:hover"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/open",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:open"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/openHover",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:openHover"
+    },
+    // move beam button up to deploy button
+    {
+      "op": "copy",
+      "path": "/mainBar/beam/pos",
+      "from": "/mainBar/deploy/pos"
+    },
+    {
+      "op": "copy",
+      "path": "/mainBar/beam/poly",
+      "from": "/mainBar/deploy/poly"
+    },
+    // move deploy button up to mmUpgrade button
+    {
+      "op": "copy",
+      "path": "/mainBar/deploy/pos",
+      "from": "/mainBar/mmUpgrade/pos"
+    },
+    {
+      "op": "copy",
+      "path": "/mainBar/deploy/poly",
+      "from": "/mainBar/mmUpgrade/poly"
+    },
+    // remove M.M. Upgrade button and use it to keep big PNG loaded
+    {
+      "op": "replace",
+      "path": "/mainBar/mmUpgrade",
+      "value": {
+        "base": "/neon/starloader/core/starhub/gui/main.png",
+        "hover": "",
+        "open": "",
+        "openHover": "",
+        "disabled": "",
+        "pos": [0, 0],
+        "poly": []
+      }
+    }
+  ]
+]

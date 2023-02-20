@@ -1,0 +1,29 @@
+[
+  [
+    {
+      "op": "replace",
+      "path": "/cursorTooltip/collectionsText",
+      "value": "Starhub"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/base",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:base"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/hover",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:hover"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/open",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:open"
+    },
+    {
+      "op": "replace",
+      "path": "/mainBar/collections/openHover",
+      "value": "/neon/starloader/core/starhub/gui/mainbar.png:openHover"
+    }
+  ]
+]

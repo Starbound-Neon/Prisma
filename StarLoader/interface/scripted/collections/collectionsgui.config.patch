@@ -1,0 +1,75 @@
+[
+  {
+    "op": "copy",
+    "path": "/_",
+    "from": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui",
+    "value": {
+      "panefeature": {
+        "type": "panefeature",
+        "anchor": "bottomLeft"
+      },
+      "background": {
+        "type": "background",
+        "fileBody": "/neon/starloader/core/starhub/gui/main.png"
+      },
+      "back": {
+        "type": "image",
+        "zlevel": 0
+      },
+      "contentscrollarea": {
+        "type": "scrollArea",
+        "zlevel": 2
+      },
+      "sidebar": {
+        "type": "image",
+        "zlevel": 1
+      },
+      "sidebarscrollarea": {
+        "type": "scrollArea",
+        "zlevel": 2
+      },
+      "separator": {
+        "type": "image",
+        "zlevel": 3
+      },
+      "sidebar_header": {
+        "type": "image",
+        "zlevel": 2
+      },
+      "sidebar_logo": {
+        "type": "image",
+        "zlevel": 3,
+        "scale": 0.5
+      },
+      "sidebar_footer": {
+        "type": "image",
+        "zlevel": 2
+      },
+      "sidebar_disclaimer": {
+        "type": "label",
+        "zlevel": 3,
+        "fontSize": 10,
+        "value": "This is an EXPERIMENTAL version!\nNot finished functions!\nStuff WILL change."
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scripts",
+    "value": ["/neon/starloader/core/starhub/gui/main.lua"]
+  },
+  {
+    "op": "replace",
+    "path": "/scriptDelta",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/scriptWidgetCallbacks",
+    "value": ["sidebarPress", "sliderPress"]
+  }
+]
