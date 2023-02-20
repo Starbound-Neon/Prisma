@@ -231,7 +231,7 @@ function sidebarPress(widgetname, widgetdata)
         local module = modules[j]
         local modulename, moduleparams = module[1], module[2]
         if modulename == calledButtonName then
-          calledButtonDescription = "This is a Module.\n" .. moduleparams["description"] or "This is an Module.\nNo Description."
+          calledButtonDescription = "This is an Module.\n" .. moduleparams["description"] or "This is an Module.\nNo Description."
           logo = moduleparams["logo"]
           size = root.imageSize(logo)
           size[1] = size[1] / 2
