@@ -12,10 +12,11 @@ If you answered yes to any of these questions, then you need StarLoader!
 
 StarLoader is a mod for Starbound that lets you:
 
-Easily install and manage/load other mods (called modules) from other starloader modules on steam or make your own modules!
-Develop your own modules using StarLoader’s Functions and Framework
-Access a GUI called StarHub where you can browse, enable and disable modules with a click
-Enjoy no interference with most Starbound mods and vanilla gameplay
+- Easily install and manage/load other mods (called modules) from other starloader modules on steam or make your own modules!
+- Develop your own modules using StarLoader’s Functions and Framework
+- Access a GUI called StarHub where you can browse, enable and disable modules with a click
+- Enjoy no interference with most Starbound mods and vanilla gameplay
+
 Explore the possibilities of StarLoader with its open source code and Discord community!
 
 StarLoader has three main components:
