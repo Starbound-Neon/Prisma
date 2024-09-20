@@ -1,0 +1,8 @@
+{
+  "author" : "^#00ffff;L^#25dbff;o^#49b7ff;n^#6e92ff;a^#926eff;a^#b749ff;s^#db25ff;a^#ff00ff;n^reset;",
+  "description" : "Prisma Core Multiplayer compatible",
+  "friendlyName" : "Prisma Core",
+  "name" : "prisma core",
+  "priority" : 100,
+  "version" : "0.0.0.1"
+}
