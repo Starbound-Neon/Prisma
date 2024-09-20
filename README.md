@@ -1,4 +1,9 @@
-![StarLoader Core](https://media.discordapp.net/attachments/970399339677618276/1031906771054366830/Starloader.png?width=630&height=630)
+![Prisma Core](https://shadowlona.dev/assets)
+
+# This project is being redesigned / rebranded
+
+<br>
+
 # StarLoader for Starbound
 ### - Open Source, Modular[^modular], Multiplayer Compatible[^compatible], Completely written in Lua[^onlylua] - 
 
