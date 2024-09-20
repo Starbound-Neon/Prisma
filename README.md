@@ -1,6 +1,7 @@
 ![Prisma Core](https://shadowlona.dev/assets/Prisma_name_transparent.png)
 
-# This project is being redesigned / rebranded
+# This project is being re-designed and re-branded
+## Please go to the new Prisma repo [here!](https://github.com/Lonaasan/Prisma)
 
 <br>
 
